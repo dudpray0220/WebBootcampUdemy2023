@@ -1,0 +1,19 @@
+h2 {
+  color: paleturquoise;
+  background-color: beige;
+}
+
+button {
+  color: rgb(86, 128, 191);
+  background-color: crimson;
+}
+
+p {
+  color: #e6e6fa;
+  background: rgb(134, 229, 194);
+}
+
+body {
+  /* same cc99aa */
+  background-color: #c9a;
+}

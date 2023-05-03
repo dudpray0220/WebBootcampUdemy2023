@@ -1,0 +1,24 @@
+body {
+  font-family: "Ysabeau", sans-serif;
+}
+
+main {
+  width: 60%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Bruno Ace SC", cursive;
+}
+
+h1 + h2 {
+  margin-top: 10px;
+}

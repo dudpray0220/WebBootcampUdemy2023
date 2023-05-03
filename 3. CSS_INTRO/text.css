@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  width: 50%;
+  font-weight: 700;
+  text-decoration: #f902ab underline wavy;
+  letter-spacing: 20px;
+  font-size: 50px;
+  font-family: Futura, sefif;
+}
+
+p {
+  text-align: right;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+}
